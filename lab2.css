@@ -1,0 +1,37 @@
+.flex-container {
+    display: flexbox;
+    background-color: DodgerBlue;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+  }
+  .canadamove{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
+  }
+  .reasonwhy
+  {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: chocolate;
+    font-weight: bold;
+  }
+   .class1
+   {
+    font-size: medium;
+    column-rule-color: rgb(255, 0, 217);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+   .moveme{
+    font-size:large;
+   }
+   .footersize{
+    font-size: larger;
+    color:blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+   }
+
+  
